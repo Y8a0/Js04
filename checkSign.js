@@ -11,3 +11,4 @@ function entier(n,n1,n2){
     return n, n1, n2;
 }
 entier(-5, 1, 0);
+module.exports = checkSign;
