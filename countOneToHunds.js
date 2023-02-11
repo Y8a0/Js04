@@ -6,3 +6,4 @@ function decompte(i){
     return i;
 }
 console.log(decompte(100));
+module.exports = countOneToHunds;
