@@ -10,3 +10,4 @@ function nombre(i){
     return i;
 }
 nombre(2);
+module.exports = checkEvenOdd;
