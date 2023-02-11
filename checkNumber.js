@@ -11,3 +11,4 @@
     return nbr, nbr1, nbr2;
  }
  nombre(2, 5, 6);
+module.exports = checkNumber;
