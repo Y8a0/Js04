@@ -1,4 +1,4 @@
- function nombre(nbr, nbr1, nbr2){
+ function checkNumber(nbr, nbr1, nbr2){
         if(nbr<5){
             console.log("Faible");
         }
@@ -10,5 +10,5 @@
         }
     return nbr, nbr1, nbr2;
  }
- nombre(2, 5, 6);
+ checkNumber(2, 5, 6);
 module.exports = checkNumber;
