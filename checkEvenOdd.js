@@ -1,4 +1,4 @@
-function nombre(i){
+function checkEvenOdd(i){
     for(i=1;i<=2;i++){
         if(i%2!=0){
             console.log("Impair");
@@ -9,5 +9,5 @@ function nombre(i){
     }
     return i;
 }
-nombre(2);
+checkEvenOdd(2);
 module.exports = checkEvenOdd;
